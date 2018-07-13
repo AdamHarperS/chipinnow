@@ -1,0 +1,450 @@
+[19-May-2017 12:27:58 Etc/GMT] PHP Notice:  Undefined variable: hyC74y in /home/freak7vi/public_html/sports/config.inc.php on line 9
+[19-May-2017 12:27:58 Etc/GMT] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 73
+[19-May-2017 12:27:58 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 407
+[19-May-2017 12:27:58 Etc/GMT] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 650
+[19-May-2017 12:34:56 Etc/GMT] PHP Notice:  Undefined variable: hyC74y in /home/freak7vi/public_html/sports/config.inc.php on line 9
+[19-May-2017 12:34:56 Etc/GMT] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 73
+[19-May-2017 12:34:56 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 407
+[19-May-2017 12:34:56 Etc/GMT] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 650
+[19-May-2017 12:35:51 Etc/GMT] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 73
+[19-May-2017 12:35:51 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 407
+[19-May-2017 12:35:51 Etc/GMT] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/freak7vi/public_html/sports/class.database.php on line 650
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[20-May-2017 12:24:32 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/dashboard.php on line 32 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:32 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:42 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/dashboard.php on line 32 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[20-May-2017 12:24:42 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:42 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:42 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:42 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:42 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:48 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/dashboard.php on line 32 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[20-May-2017 12:24:48 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:48 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:48 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:48 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:24:48 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:26:10 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/dashboard.php on line 32 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[20-May-2017 12:26:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:26:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:26:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:26:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:26:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[20-May-2017 12:26:18 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[20-May-2017 12:26:18 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[20-May-2017 12:26:18 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 04:17:17 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[22-May-2017 04:17:17 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[22-May-2017 04:27:11 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[22-May-2017 04:27:11 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[22-May-2017 04:27:29 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:27:29 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:27:29 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:27:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:34:52 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:34:52 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:34:52 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:34:52 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:15 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:15 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:15 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:15 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:20 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:20 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:20 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:20 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 04:35:21 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 04:35:21 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 04:35:21 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 04:35:34 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[22-May-2017 04:35:34 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[22-May-2017 12:05:42 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[22-May-2017 12:05:42 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[22-May-2017 12:05:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[22-May-2017 12:05:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:09 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/add_category.php on line 43 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:09 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:10 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/add_category.php on line 43 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:10 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:06:12 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 12:06:12 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 12:06:12 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 12:06:12 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 12:06:12 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 12:06:12 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[22-May-2017 12:11:57 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[22-May-2017 12:11:57 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[22-May-2017 12:20:34 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:34 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:34 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:34 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:37 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:37 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:37 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:37 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:42 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:42 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:42 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:42 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:54 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:54 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:54 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:54 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:56 Etc/GMT] PHP Warning:  Missing argument 1 for sidebar(), called in /home/freak7vi/public_html/sports/add_category.php on line 43 and defined in /home/freak7vi/public_html/sports/common.php on line 4
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined variable: selected in /home/freak7vi/public_html/sports/common.php on line 89
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[22-May-2017 12:20:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:43:15 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[23-May-2017 18:43:15 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[23-May-2017 18:43:35 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:43:35 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:43:35 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:43:35 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:44:41 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[23-May-2017 18:44:41 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[23-May-2017 18:44:41 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[23-May-2017 18:48:06 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[23-May-2017 18:48:06 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:48:23 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:49:20 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:49:20 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:49:20 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[23-May-2017 18:49:20 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:37 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:47 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:47 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:47 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:47 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:57 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[24-May-2017 05:41:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:11 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[29-May-2017 05:02:11 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:02:35 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:07 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:07 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:07 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 05:24:28 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:12 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:12 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:12 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:12 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:15 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:17 Etc/GMT] PHP Notice:  Undefined index: view_category in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:17 Etc/GMT] PHP Notice:  Undefined index: add_category in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:17 Etc/GMT] PHP Notice:  Undefined index: category_name in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:17 Etc/GMT] PHP Notice:  Undefined index: image in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[29-May-2017 06:09:31 Etc/GMT] PHP Notice:  Undefined index: edit_trainer_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:37 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[31-May-2017 10:21:37 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:21:42 Etc/GMT] PHP Notice:  Undefined index: edit_profile in /home/freak7vi/public_html/sports/function.php on line 18
+[31-May-2017 10:25:02 Etc/GMT] PHP Warning:  move_uploaded_file(images/gallery/993797269_an_invent.jpg): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/process_gallery.php on line 44
+[31-May-2017 10:25:02 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMLYKlm' to 'images/gallery/993797269_an_invent.jpg' in /home/freak7vi/public_html/sports/process_gallery.php on line 44
+[31-May-2017 10:43:15 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:43:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:43:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:43:35 Etc/GMT] PHP Notice:  Undefined index: csrf_token in /home/freak7vi/public_html/sports/add_trainer.php on line 74
+[31-May-2017 10:43:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:43:40 Etc/GMT] PHP Notice:  Undefined index: csrf_token in /home/freak7vi/public_html/sports/add_trainer_profile.php on line 74
+[31-May-2017 10:44:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:44:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:44:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:56:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[31-May-2017 10:56:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[05-Jun-2017 06:00:21 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[05-Jun-2017 06:00:21 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[05-Jun-2017 06:00:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[05-Jun-2017 06:16:30 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[05-Jun-2017 06:16:30 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[05-Jun-2017 06:16:37 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:16:37 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:16:37 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:16:38 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:16:38 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:16:38 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:16:48 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[05-Jun-2017 06:16:48 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[05-Jun-2017 06:17:10 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:17:10 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:17:10 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[05-Jun-2017 06:59:33 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[05-Jun-2017 06:59:33 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[05-Jun-2017 06:59:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[05-Jun-2017 06:59:52 Etc/GMT] PHP Notice:  Undefined index: csrf_token in /home/freak7vi/public_html/sports/add_trainer_profile.php on line 74
+[05-Jun-2017 07:09:53 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[05-Jun-2017 10:53:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[05-Jun-2017 10:54:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:29:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:33:15 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:33:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:38:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:38:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:55:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:55:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:55:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:57:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 11:58:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:07:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:08:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:08:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:08:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:08:30 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[06-Jun-2017 12:08:30 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[06-Jun-2017 12:08:30 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[06-Jun-2017 12:12:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:12:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:18:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:20:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:20:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:23:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:25:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:25:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:26:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:26:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:27:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:27:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[06-Jun-2017 12:35:16 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[07-Jun-2017 04:54:01 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[07-Jun-2017 04:54:01 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[07-Jun-2017 06:06:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 05:09:59 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[08-Jun-2017 05:09:59 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[08-Jun-2017 05:10:00 Etc/GMT] PHP Notice:  Undefined index: search in /home/freak7vi/public_html/sports/function.php on line 18
+[08-Jun-2017 05:10:00 Etc/GMT] PHP Notice:  Undefined index: trainer_name in /home/freak7vi/public_html/sports/function.php on line 18
+[08-Jun-2017 05:10:00 Etc/GMT] PHP Notice:  Undefined index: trainer_no in /home/freak7vi/public_html/sports/function.php on line 18
+[08-Jun-2017 05:10:00 Etc/GMT] PHP Notice:  Undefined index: all in /home/freak7vi/public_html/sports/function.php on line 18
+[08-Jun-2017 05:10:00 Etc/GMT] PHP Notice:  Undefined index: search in /home/freak7vi/public_html/sports/function.php on line 18
+[08-Jun-2017 05:38:44 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 05:38:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:03:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:03:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:03:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:03:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:04:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:04:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 06:04:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 10:06:44 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[08-Jun-2017 10:06:44 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[08-Jun-2017 10:30:40 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[08-Jun-2017 10:30:40 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[08-Jun-2017 10:30:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[08-Jun-2017 10:30:50 Etc/GMT] PHP Notice:  Undefined index: csrf_token in /home/freak7vi/public_html/sports/add_trainer.php on line 74
+[09-Jun-2017 04:49:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 04:49:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 04:49:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 04:49:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 04:51:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 09:17:41 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[09-Jun-2017 09:17:41 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[09-Jun-2017 12:47:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 12:47:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 12:47:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 13:05:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 13:05:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 13:05:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[09-Jun-2017 19:19:50 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[09-Jun-2017 19:19:50 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[12-Jun-2017 03:47:31 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[12-Jun-2017 03:47:31 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[12-Jun-2017 04:53:15 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[12-Jun-2017 04:53:15 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[13-Jun-2017 03:53:12 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[13-Jun-2017 03:53:12 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[13-Jun-2017 06:28:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:28:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:28:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:29:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:29:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:29:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:30:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:30:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:30:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 06:31:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 12:34:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 12:34:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 12:37:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 12:40:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 12:40:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[13-Jun-2017 12:57:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 04:31:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 07:07:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 07:07:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 08:08:21 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[14-Jun-2017 08:08:21 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[14-Jun-2017 08:10:02 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  include(): Failed opening '../config.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  require_once(../class.database.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../class.database.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  include(): Failed opening '../config.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Warning:  require_once(../class.database.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:07:30 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../class.database.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  include(): Failed opening '../config.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  require_once(../class.database.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../class.database.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  include(../config.inc.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  include(): Failed opening '../config.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 3
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Warning:  require_once(../class.database.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:08:00 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '../class.database.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/category.php on line 4
+[14-Jun-2017 09:25:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 09:25:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 11:08:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 11:08:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 11:40:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 12:15:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[14-Jun-2017 13:33:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[16-Jun-2017 11:27:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[16-Jun-2017 14:04:56 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[16-Jun-2017 14:04:56 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[16-Jun-2017 14:05:16 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:05:41 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[16-Jun-2017 14:05:41 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[16-Jun-2017 14:05:41 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[16-Jun-2017 14:06:03 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[16-Jun-2017 14:06:03 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[16-Jun-2017 14:06:10 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:06:20 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:06:24 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:06:38 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:07:37 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:08:02 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:08:07 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:08:11 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:08:21 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:08:24 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:09:55 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:10:01 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:10:04 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:10:39 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[16-Jun-2017 14:10:39 Etc/GMT] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/freak7vi/public_html/sports/logout.php on line 3
+[16-Jun-2017 14:10:39 Etc/GMT] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/freak7vi/public_html/sports/logout.php on line 3
+[16-Jun-2017 14:10:46 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[16-Jun-2017 14:10:46 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[16-Jun-2017 14:10:51 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:12:05 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[16-Jun-2017 14:12:18 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 04:45:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[19-Jun-2017 04:45:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[19-Jun-2017 05:05:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[19-Jun-2017 05:06:10 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[19-Jun-2017 05:06:10 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[19-Jun-2017 05:06:18 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 06:37:49 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 10:19:23 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[19-Jun-2017 10:19:23 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[19-Jun-2017 10:19:53 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 10:20:01 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 10:20:12 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 10:20:19 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 12:32:35 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[19-Jun-2017 12:32:35 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[19-Jun-2017 12:32:42 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 12:38:37 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 12:40:45 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 12:40:50 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 12:41:19 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[19-Jun-2017 12:43:44 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 12:53:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[20-Jun-2017 12:53:39 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[20-Jun-2017 12:53:39 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[20-Jun-2017 13:13:10 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 13:28:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[20-Jun-2017 13:28:30 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 13:28:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[20-Jun-2017 13:28:39 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 13:29:23 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 13:29:31 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 19:17:12 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[20-Jun-2017 19:17:12 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[20-Jun-2017 19:22:57 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[20-Jun-2017 19:22:57 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[20-Jun-2017 19:23:03 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 19:23:23 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[20-Jun-2017 19:23:34 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[21-Jun-2017 04:38:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/freak7vi/public_html/sports/function.php on line 35
+[21-Jun-2017 04:38:25 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[21-Jun-2017 04:38:25 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[21-Jun-2017 04:38:33 Etc/GMT] PHP Notice:  Undefined variable: controlEditName in /home/freak7vi/public_html/sports/footer.php on line 52
+[21-Jun-2017 05:02:31 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[21-Jun-2017 05:02:31 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33
+[21-Jun-2017 05:21:22 Etc/GMT] PHP Notice:  Undefined index: user_status in /home/freak7vi/public_html/sports/process_login.php on line 32
+[21-Jun-2017 05:21:22 Etc/GMT] PHP Notice:  Undefined index: unit_id in /home/freak7vi/public_html/sports/process_login.php on line 33

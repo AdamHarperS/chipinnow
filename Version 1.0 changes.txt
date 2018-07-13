@@ -1,0 +1,84 @@
+
+Version 1.0
+Sports coaching & training solution IOS application is a midiater application which helps a trainee or user to find best coahing within his/her city.check complete details of coach and check available courses provided by coach. trainee can request for coaching to coach which is notifiy to coach and coach can accept and reject trainee request.
+
+TRAINEE or USER features :
+
+1. Fin best available coach by sport
+2. Fin best available course by sport
+3. Sort coach by City, Ratings, Expert Level, Gender, Age group
+4. Sort Course by City, Ratings, Expert Level, Gender, Age group
+5. Check course details, 
+	Course Name, 
+	Coach, 
+	Course description, 
+	No of trainee allowed for course
+	No of seats left in course
+	Course duration in hours
+	Course price
+	Course city and address
+6. Visit coach profile, complete detail about coach,
+	Coach Name,
+	Coach Ratings
+	Coaching Experience
+	Qualification of coach
+	Collage or University from graduated
+	Coach description
+	Achievement in coaching 
+	Has sports license or not?
+	available course from coach
+	Photo Gallery of coach
+	Video gallery of coach
+7. Request coach for training from app
+8. Add coach to favourites
+9. Add Ratings to coach
+10. Find course using filters 
+11. Find coach using filters
+12. Search course
+13. Check your request Status
+14. Cancel request 
+15. Sort listing using status 
+16. check complete request details
+17. Login or Register with email
+18. Forgot Password
+19. Logout from app
+20. Find available courses by coach
+21. Add Ratings and Review
+22. Admob Integration ( Banner & Interstitial both) 
+23. Firebase Push Notification Supported
+24. On/Off Admob Advertising
+25. Easy to add New language 
+26. RTL Supported 
+
+COACH OR TRAINER features :
+1. Login or Register within app
+2. Complete profile within app, 
+	Add Profile picture
+	Add or Edit experience, 
+	Add or Edit experience Qualification 
+	Add or Edit Collage or University from graduated
+	Add or Edit Achievement in coaching 
+	Add or Edit Has sports license or not?
+	Add or Delete Gallery Photos
+	Add or Edit Profile Video
+3. Add course within app
+4. Add no of trainee allowed in course
+5. Get list of own course.
+6. Check order List
+7. Respond to order,
+	Accept Coaching request
+	Reject Coaching request
+	Complete Coaching
+8. Get Push notification when new order arrive
+
+PHP Admin Panel (Backend)
+1. Attractive & Informative Dashboard
+2. Separate List for Coach, Course and Trainee
+3. Add sports category
+4. Admin can also add coach and course
+5. Easy Configuration of push notification from admin
+6. Send push notification from admin panel
+7. Check reviews and ratings 
+8. Check all orders from trainee
+9. Monitor spam coach
+10. Respond to complains

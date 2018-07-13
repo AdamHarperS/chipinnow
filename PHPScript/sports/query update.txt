@@ -1,0 +1,5 @@
+ALTER TABLE `tbl_user` ADD `token` VARCHAR(255) NOT NULL AFTER `status`;
+
+ALTER TABLE `tbl_trainer_profile` ADD `fees_private` VARCHAR(30) NOT NULL AFTER `course_detail`, ADD `duration_private` VARCHAR(50) NOT NULL AFTER `fees_private`;
+
+ALTER TABLE `tbl_course` ADD `course_country` VARCHAR(50) NOT NULL AFTER `course_location`, ADD `allowed_trainee` INT NOT NULL AFTER `course_country`, ADD `course_category` INT NOT NULL AFTER `allowed_trainee`;
